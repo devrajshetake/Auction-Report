@@ -8,9 +8,9 @@ TOTAL_BUDGET = 100
 class Team(models.Model):
     name = models.CharField(max_length=100, default="")
     owner = models.CharField(max_length=100, default="")
-    remaining_budget = models.FloatField(default=TOTAL_BUDGET)
-    total_players = models.IntegerField(default=0)
-    points = models.FloatField(default=0)
+    remaining_budget = models.FloatField(default=TOTAL_BUDGET, null=True)
+    total_players = models.IntegerField(default=0, null=True)
+    # points = models.FloatField(default=0, null=True)
 
     def __str__(self):
         return self.name
@@ -31,7 +31,7 @@ class Team(models.Model):
     def save(self, *args, **kwargs):
         self.total_players = self.count_players()
         self.remaining_budget = self.calculate_budget()
-        self.points = self.count_points()
+        # self.points = self.count_points()
         super(Team, self).save(*args, **kwargs)
     
 

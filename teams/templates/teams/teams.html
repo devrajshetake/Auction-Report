@@ -48,7 +48,7 @@
           {% for team in teams %}
           <tr>
             <th>{{ forloop.counter }}</th>
-            <th>{{team.name}}</th>
+            <th><a href="{% url 'team' team.pk %}">{{team.name}}</a></th>
             <th>{{team.total_players}}</th>
             <th>{{team.remaining_budget}} CR</th> 
           </tr>
