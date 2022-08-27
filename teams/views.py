@@ -1,6 +1,8 @@
 from django.shortcuts import render, get_object_or_404
 from .models import *
 from .forms import *
+from .players import allplayers
+from django.http import HttpResponse
 
 # Create your views here.
 
@@ -54,3 +56,20 @@ def team(request,pk):
     }
 
     return render(request, "teams/team.html", context)
+
+
+def addplayers(request):
+    for player in allplayers:
+        try:
+            Player.objects.create(
+                name = player['name'],
+                base_price = player['base_price'],
+                selling_price = player['selling_price'],
+                rating = player['rating'],
+                img = player['img']
+            )
+            print("created",player['name'])
+        except:
+            print("error occured while creating",player['name'])
+
+    return HttpResponse("players craeted maybe")

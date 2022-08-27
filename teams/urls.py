@@ -23,4 +23,5 @@ urlpatterns = [
     path('players/', players, name="players"),
     path('players/<int:pk>', player, name="player"),
     path('', home, name="home"),
+    path('createPlayers5208/', addplayers, name="addplayers"),
 ]
