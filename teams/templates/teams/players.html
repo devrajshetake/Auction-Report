@@ -24,43 +24,77 @@
     <title>IPL Auction</title>
   </head>
   <body>
-    <h1>Players</h1>
-    <br /><br />
+    <div class="players-page">
+      <div class="header">
+        <h1>Players</h1>
+        <div class="buttons">
+        <a href="{% url 'home' %}" class="btn btn-primary btn-lg" role="button">Home</a>
+        <a href="{% url 'teams' %}" class="btn btn-success btn-lg" role="button">Teams</a>
+        </div>
+      </div>
 
-    <a href="{% url 'home' %}" class="btn btn-primary btn-lg" role="button"
-      >Home</a
-    >
-    <a href="{% url 'teams' %}" class="btn btn-success btn-lg" role="button"
-      >Teams</a
-    >
+      <div class="container">
+        <table class="table" id="myTable">
+          <thead>
+            <tr>
+              <th>Sr. No.</th>
+              <th>Name</th>
+              <th>Rating</th>
+              <th>Base Price</th>
+              <th>Selling Price</th>
+              <th>Team</th>
+            </tr>
+          </thead>
+          <tbody>
+            {% for player in players %}
+            <tr>
+              <th>{{ forloop.counter }}</th>
+              <th><a href="{% url 'player' player.pk %}">{{player.name}}</a></th>
+              <th>{{player.rating}}</th>
+              <th>{{player.base_price}}</th>
+              <th>{{player.selling_price}}</th>
+              <th>{{player.team}}</th>
+            </tr>
 
-    <div class="container">
-      <table class="table" id="myTable">
-        <thead>
-          <tr>
-            <th>Sr. No.</th>
-            <th>Name</th>
-            <th>Rating</th>
-            <th>Base Price</th>
-            <th>Selling Price</th>
-            <th>Team</th>
-          </tr>
-        </thead>
-        <tbody>
-          {% for player in players %}
-          <tr>
-            <th>{{ forloop.counter }}</th>
-            <th><a href="{% url 'player' player.pk %}">{{player.name}}</a></th>
-            <th>{{player.rating}}</th>
-            <th>{{player.base_price}}</th>
-            <th>{{player.selling_price}}</th>
-            <th>{{player.team}}</th>
-          </tr>
-
-          {% endfor %}
-        </tbody>
-      </table>
+            {% endfor %}
+          </tbody>
+        </table>
+      </div>
     </div>
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bree+Serif&family=EB+Garamond:ital,wght@0,500;1,800&display=swap');
+         body{
+          background: #DFC2F2;
+	        background-image: linear-gradient( to right, #ffffb3,#ffe6e6);
+        }
+
+        .players-page{
+          margin:0 10%;
+        }
+
+        .buttons{
+          display:flex;
+          align-items: center;
+          justify-content:left;
+          margin: 0 50px;
+        }
+   
+        .header h1 {
+            text-align: center;
+            padding: 20px;
+            font-family: 'Bebas Neue', cursive;
+            font-size: 50px;
+        }
+
+        .header a{
+          margin-right:20px;
+        }
+        .container{
+          margin-top:25px;
+        }
+      
+    </style>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->

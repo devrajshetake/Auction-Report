@@ -11,11 +11,63 @@
     <title>IPL Auction</title>
   </head>
   <body>
-    <h1>IPL Auction</h1>
-    <br><br>
+    {% include 'teams/navbar.html' %}
+    <div class="home-page">
+      <div>
+      <h1 class="website-title">IPL Auction</h1>
+      </div>
 
-    <a href="{% url 'players' %}" class="btn btn-primary btn-lg" role="button">Players</a>
-    <a href="{% url 'teams' %}" class="btn btn-success btn-lg" role="button">Teams</a>
+      <div>
+      <a href="{% url 'players' %}" class="btn buttons" role="button">Players</a>
+      <a href="{% url 'teams' %}" class="btn buttons" role="button">Teams</a>
+      </div>
+     </div>
+    {% include 'teams/footer.html' %}
+
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Alumni+Sans+Collegiate+One:ital@0;1&family=Roboto&display=swap');
+
+      body{
+        background: #DFC2F2;
+	      background-image: linear-gradient( to right, #ffffb3,#ffe6e6);
+      }
+
+      .website-title{
+        font-size: 30vmin;
+        line-height: 1.1;
+        padding:20px;
+        font-family: 'Alumni Sans Collegiate One', sans-serif;
+        color:rgb(83, 82, 82);
+        /* font-family: 'Roboto', sans-serif; */
+      }
+
+
+      .home-page{
+        width:100vw;
+        height:80vh;
+        display:flex;
+        justify-content:center;
+        align-items:center;
+        flex-direction: column;
+      }
+
+      .buttons {
+        border: 3px solid;
+        border-color: black;
+        border-radius: 15px;
+        padding: 10px 20px;
+        margin-left:10px;
+        margin-right: 10px;
+        font-weight: 700;
+      }
+
+      .buttons:hover{
+        background-color:rgb(57, 56, 56);
+        border-color:rgb(57, 56, 56);
+        color:white;
+      }
+
+    </style>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
