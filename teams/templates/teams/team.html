@@ -13,11 +13,10 @@
   </head>
   <body>
     {% include 'teams/navbar.html' %}
-    <div class="container">
+    <div class="container text-center">
         <h1>{{team.name}}</h1>
-        <h1>{{team.remaining_budget}}</h1>
-        <h1>{{team.total_players}}</h1>
-        <h1>{{team.points}}</h1>
+        <h2>Budget Remaining: {{team.remaining_budget}}</h2>
+        <h2>Total Player: {{team.total_players}}</h2>
 
         <table class="table" id="myTable">
             <thead>

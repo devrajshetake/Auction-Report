@@ -25,15 +25,18 @@
   </head>
   <body>
     {% include 'teams/navbar.html' %}
-    <h1>Teams</h1>
-    <br /><br />
 
-    <a href="{% url 'home' %}" class="btn btn-primary btn-lg" role="button"
-      >Home</a
-    >
-    <a href="{% url 'players' %}" class="btn btn-success btn-lg" role="button"
-      >Players</a
-    >
+
+    <div class="teams-page">
+    <div class="header">
+      <div>
+        <h1>Teams</h1>
+      </div>
+      <div class="buttons">
+      <a href="{% url 'home' %}" class="btn btn-primary btn-lg" role="button">Home</a>
+      <a href="{% url 'players' %}" class="btn btn-success btn-lg" role="button">Players</a>
+      </div>
+    </div>
 
     <div class="container">
       <table class="table" id="myTable">
@@ -58,6 +61,43 @@
         </tbody>
       </table>
     </div>
+    </div>
+
+    <!-- {% include 'teams/footer.html' %} -->
+
+    <style>
+       @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Bree+Serif&family=EB+Garamond:ital,wght@0,500;1,800&display=swap');
+         body{
+          background: #DFC2F2;
+	        background-image: linear-gradient( to right, #ffffb3,#ffe6e6);
+        }
+
+        .teams-page{
+          margin:0 10%;
+        }
+
+        .buttons{
+          display:flex;
+          align-items: center;
+          justify-content:left;
+          margin: 0 50px;
+        }
+   
+        .header h1 {
+            text-align: center;
+            padding: 20px;
+            font-family: 'Bebas Neue', cursive;
+            font-size: 50px;
+        }
+
+        .header a{
+          margin-right:20px;
+        }
+        .container{
+          margin-top:25px;
+        }
+      
+    </style>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
