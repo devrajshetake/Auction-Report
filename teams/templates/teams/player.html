@@ -44,7 +44,7 @@
       </div>
       
         
-      {% if request.user.is_authenticated %}
+      {% if request.user.is_superuser %}
       <form action="{% url 'player' player.pk %}" method="POST">
           {% csrf_token %}
   
