@@ -18,9 +18,6 @@ class Team(models.Model):
     def count_players(self):
         return len(self.players.all().order_by("-rating"))
 
-    def count_points(self):
-        return self.players.all().aggregate(Sum('rating'))["rating__sum"]
-
     def calculate_budget(self):
         count = 0
         for player in self.players.all():
@@ -29,8 +26,9 @@ class Team(models.Model):
         return TOTAL_BUDGET - count
 
     def save(self, *args, **kwargs):
-        self.total_players = self.count_players()
-        self.remaining_budget = self.calculate_budget()
+        if self.pk:
+            self.total_players = self.count_players()
+            self.remaining_budget = self.calculate_budget()
         # self.points = self.count_points()
         super(Team, self).save(*args, **kwargs)
     

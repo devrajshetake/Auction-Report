@@ -1242,3 +1242,22 @@ allplayers = [
     "img": "https://drive.google.com/uc?export=view&id=19i_NF50MGisrxCiUd-AqbBabAr1yQTop"
   }
 ]
+
+iplteams = [
+    {
+        "name": "Mumbai Indians",
+        "owner": "Adarsh Chougule",
+    },
+    {
+        "name": "Mumbai Indians",
+        "owner": "Adarsh Chougule",
+    },
+    {
+        "name": "Mumbai Indians",
+        "owner": "Adarsh Chougule",
+    },
+    {
+        "name": "Mumbai Indians",
+        "owner": "Adarsh Chougule",
+    },
+]
