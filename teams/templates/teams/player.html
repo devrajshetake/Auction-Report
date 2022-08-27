@@ -43,19 +43,20 @@
         <button type="Submit" class="btn-lg btn-success">back</button>
       </div>
       
-        {% if request.user.is_authenticated %}
-        <form action="{% url 'player' player.pk %}" method="POST">
-            {% csrf_token %}
-
-            {{form}}
-            <button type="submit">Submit</button><br><br>
-            <a href="{% url 'players' %}" class="btn btn-success">Players</a>
-        </form>
-        {% endif %}
-
+        
+      {% if request.user.is_authenticated %}
+      <form action="{% url 'player' player.pk %}" method="POST">
+          {% csrf_token %}
+  
+          {{form}}
+          <button type="submit">Submit</button><br><br>
+      </form>
+      {% endif %}
 
         
     </div>
+    
+
     {% include 'teams/footer.html' %}
 
     <style>
