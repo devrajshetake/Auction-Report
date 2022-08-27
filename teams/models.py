@@ -3,7 +3,7 @@ from django.db.models import Sum
 
 # Create your models here.
 
-TOTAL_BUDGET = 100
+TOTAL_BUDGET = 80
 
 class Team(models.Model):
     name = models.CharField(max_length=100, default="")
