@@ -46,6 +46,7 @@ def teams(request):
 
 def team(request,pk):
     team = Team.objects.get(pk=pk)
+    team.save() #Jugaad
     players = team.players.all()
     context = {
         'team':team,
