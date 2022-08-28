@@ -44,6 +44,7 @@
           <tr>
             <th>Sr. No.</th>
             <th>Name</th>
+            <th>Owner</th>
             <th>Total Players</th>
             <th>Remaining Budget</th>
           </tr>
@@ -53,6 +54,7 @@
           <tr>
             <th>{{ forloop.counter }}</th>
             <th><a href="{% url 'team' team.pk %}">{{team.name}}</a></th>
+            <th>{{team.owner}}</th>
             <th>{{team.total_players}}</th>
             <th>{{team.remaining_budget}} CR</th> 
           </tr>
