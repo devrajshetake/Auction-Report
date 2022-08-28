@@ -58,6 +58,7 @@ def team(request,pk):
     return render(request, "teams/team.html", context)
 
 
+
 def addplayers(request):
     for player in allplayers:
         try:

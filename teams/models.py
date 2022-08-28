@@ -23,7 +23,7 @@ class Team(models.Model):
         for player in self.players.all():
             count += player.selling_price
         print(self.players.all())
-        return TOTAL_BUDGET - count
+        return round(TOTAL_BUDGET - count,2)
 
     def save(self, *args, **kwargs):
         if self.pk:
