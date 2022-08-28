@@ -19,7 +19,7 @@ from .views import *
 
 urlpatterns = [
     path('teams/', teams, name="teams1"),
-    path('teams1/', teams, name="teams"),
+    path('teams1/', teams, name="teams2"),
     path('teams/<int:pk>', team, name="team"),
     path('players/', players, name="players"),
     path('players/<int:pk>', player, name="player"),
