@@ -3,1246 +3,1459 @@ allplayers = [
     "id": 1,
     "name": "K.L. Rahul",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.75,
-    "img": "https://drive.google.com/uc?export=view&id=1lhSzyEbkAu3tITEwak2gNQx07zUZTOwf"
+    "rating": 9.5,
+    "img": "https://lh3.google.com/u/0/d/1-PI_OWrsafEzneVO0wGBZGUd2fubrSbL",
+    "selling_price": 0
   },
   {
     "id": 2,
     "name": "Rishabh Pant",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.5,
-    "img": "https://drive.google.com/uc?export=view&id=1S6gGTVnTZOzTGWhWYhcZevT6GTmc8jOr"
+    "base_price": 1.5,
+    "rating": 9.25,
+    "img": "https://lh3.google.com/u/0/d/1w9MITvVR43qTK9XXm-H1GK7JP-Vg9d1u",
+    "selling_price": 0
   },
   {
     "id": 3,
-    "name": "M.S Dhoni",
+    "name": "Virat Kohli",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.25,
-    "img": "https://drive.google.com/uc?export=view&id=11KHquPZoN_qwmmeyfIy78VmQQqOwzTYe"
+    "rating": 9.75,
+    "img": "https://lh3.google.com/u/0/d/1U3TlPOlSr6R5qS-otdy67_t9_1C63JSw",
+    "selling_price": 0
   },
   {
     "id": 4,
-    "name": "Jos Buttler",
+    "name": "Shikhar Dhawan",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 10,
-    "img": "https://drive.google.com/uc?export=view&id=1Odcmh0R9dlikg7vRWvv-MiHcV61dMbtC"
+    "rating": 9.5,
+    "img": "https://lh3.google.com/u/0/d/1Rycn-ZPs2FXXHwAKt2L1nJmTMyS-fk1T",
+    "selling_price": 0
   },
   {
     "id": 5,
-    "name": "Virat Kohli",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
+    "name": "Faf Du Plessis",
+    "base_price": 1.5,
     "rating": 9.25,
-    "img": "https://drive.google.com/uc?export=view&id=1NuNVG-Ct_TkkxryfsBALX2xwFnxhlA0r"
+    "img": "https://lh3.google.com/u/0/d/1UmOa0RDv6uwKNpcXS1sWwYQ8ikDoSbov",
+    "selling_price": 0
   },
   {
     "id": 6,
-    "name": "Rohit Sharma",
+    "name": "Hardik Pandya",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
     "rating": 9.5,
-    "img": "https://drive.google.com/uc?export=view&id=1bQ8Cj88jJZerE5SD0tRmGRhAI_RQmW7K"
+    "img": "https://lh3.google.com/u/0/d/1SJLeHtzGpW_hrZUuY2KzOg17xPaoPBID",
+    "selling_price": 0
   },
   {
     "id": 7,
-    "name": "David Warner",
+    "name": "Pat Cummins",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.25,
-    "img": "https://drive.google.com/uc?export=view&id=1FjgzUD30oklrbDr9tXpAG4sVSydC5zKt"
+    "rating": 9.5,
+    "img": "https://lh3.google.com/u/0/d/1qDzyI6C8aeETV0ZjRVeTMzIxUY7Wf4ek",
+    "selling_price": 0
   },
   {
     "id": 8,
-    "name": "Shikhar Dhawan",
+    "name": "Rashid Khan",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
     "rating": 9.5,
-    "img": "https://drive.google.com/uc?export=view&id=1G2cJvXk_553s3qjFSI8TYFzA1yP0RmOn"
+    "img": "https://lh3.google.com/u/0/d/16TB-EdVkdxIloSPf8iH-MhzaP-yIjBOE",
+    "selling_price": 0
   },
   {
     "id": 9,
-    "name": "Faf Du Plessis",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.25,
-    "img": "https://drive.google.com/uc?export=view&id=1rTxIGEfjomWtMsYDApCYcgBxgsxsdXpR"
+    "name": "Mitchell Starc",
+    "base_price": 2,
+    "rating": 9.5,
+    "img": "https://lh3.google.com/u/0/d/1ho64cME3sB9dKOEVKwYGsz1_FkF_HNV0",
+    "selling_price": 0
   },
   {
     "id": 10,
-    "name": "Hardik Pandya",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 10,
-    "img": "https://drive.google.com/uc?export=view&id=1rfgykqJXJao2p0BlGiz_RUBRfb8sV3EM"
+    "name": "Trent Boult",
+    "base_price": 1.5,
+    "rating": 9.25,
+    "img": "https://lh3.google.com/u/0/d/1ovh1Dok3nG8VJKgCUJ0b3jAELIR7Ot8n",
+    "selling_price": 0
   },
   {
     "id": 11,
-    "name": "Andre Russell",
+    "name": "M.S Dhoni",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.5,
-    "img": "https://drive.google.com/uc?export=view&id=1YGlBX-NeHr6wIXwxsy6teHDRZRPH4JVf"
+    "rating": 9.75,
+    "img": "https://lh3.google.com/u/0/d/1m0dlOwNcpcqSD-Ye1dorHCgcCvi-HrKA",
+    "selling_price": 0
   },
   {
     "id": 12,
-    "name": "R. Jadeja",
+    "name": "Jos Buttler",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.25,
-    "img": "https://drive.google.com/uc?export=view&id=11LkMQ8Yck-MewBBvC4Dh8bsfNKR46mFN"
+    "rating": 9.5,
+    "img": "https://lh3.google.com/u/0/d/1gX8ncrGwC1K_Jdo-FBsvvdUNU-gMZcf6",
+    "selling_price": 0
   },
   {
     "id": 13,
-    "name": "Rashid Khan",
+    "name": "Rohit Sharma",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 10,
-    "img": "https://drive.google.com/uc?export=view&id=1WBZRpUzBmwbouETILpZxAIh4d05q0ay2"
+    "rating": 9.75,
+    "img": "https://lh3.google.com/u/0/d/1KdiI4CzX-IlQPHVT3zzQPovOhvJ6FAfU",
+    "selling_price": 0
   },
   {
     "id": 14,
-    "name": "Jofra Archer",
+    "name": "David Warner",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
     "rating": 9.5,
-    "img": "https://drive.google.com/uc?export=view&id=1BEQlDxJjENVJ1iXyiaWfME3GOIFCnh0r"
+    "img": "https://lh3.google.com/u/0/d/1wDWf4y64JOj2rmL5wjCoKuy-QeZybw2W",
+    "selling_price": 0
   },
   {
     "id": 15,
-    "name": "Jasprit Bumrah",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 10,
-    "img": "https://drive.google.com/uc?export=view&id=1VZjXuvCwQ10cv6cpF57Yg_tBdaT51y1h"
+    "name": "Suryakumar Yadav",
+    "base_price": 1.5,
+    "rating": 9.25,
+    "img": "https://lh3.google.com/u/0/d/1CpbnE_h0lytKTf48mZaohqUQvxL37byP",
+    "selling_price": 0
   },
   {
     "id": 16,
-    "name": "Trent Boult",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.25,
-    "img": "https://drive.google.com/uc?export=view&id=10kDdjuVA-gkKeeBZmFDOl-OfNbR_kH0I"
+    "name": "Andre Russell",
+    "base_price": 2,
+    "rating": 9.5,
+    "img": "https://lh3.google.com/u/0/d/1GtEucxofGvfwdOfeRmooRRj9DrYVSOV1",
+    "selling_price": 0
   },
   {
     "id": 17,
-    "name": "Kagiso Rabada",
+    "name": "R. Jadeja",
     "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
     "rating": 9.5,
-    "img": "https://drive.google.com/uc?export=view&id=1gB_OXUahXW1xqVlV8OoFr_H_KcxXmm75"
+    "img": "https://lh3.google.com/u/0/d/1MjjYKnreEnJGI0ilIcM99eZd6kQEuC4E",
+    "selling_price": 0
   },
   {
     "id": 18,
-    "name": "Suryakumar Yadav",
+    "name": "Glenn Maxwell",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
     "rating": 9.5,
-    "img": "https://drive.google.com/uc?export=view&id=1gfLDtU972q4LiBEZZ_FkJ-P2HM4iJOf6"
+    "img": "https://lh3.google.com/u/0/d/1gWARm9D8Q693Fm5x6yfq7VlTDAWBjUBg",
+    "selling_price": 0
   },
   {
     "id": 19,
-    "name": "Suresh Raina",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1P7V50wUQFDJ5QjI0cVV4lSrJUvvBfRcx"
+    "name": "Jasprit Bumrah",
+    "base_price": 2,
+    "rating": 9.75,
+    "img": "https://lh3.google.com/u/0/d/19lx_t6Yr1jIvH7QU3dfPOekY3Vum9zKp",
+    "selling_price": 0
   },
   {
     "id": 20,
-    "name": "Prithvi Shaw",
+    "name": "Anrich Nortje",
     "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1zeLk02QwdzfZOSKzWv2p9puB0tuede2Q"
+    "rating": 9.25,
+    "img": "https://lh3.google.com/u/0/d/16yaXchPCrOmpXIGK17quJzbKPFWtnh4t",
+    "selling_price": 0
   },
   {
     "id": 21,
-    "name": "Manish Pandey",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1HhY88BAieAETsTMmKDGjS-Pq8ccG9z2U"
+    "name": "Sanju Samson",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1lKlqdPblcGPe7CCF9uWsLzCXCQJw8CtT",
+    "selling_price": 0
   },
   {
     "id": 22,
-    "name": "Shreyas Iyer",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
+    "name": "Ishan Kishan",
+    "base_price": 2,
     "rating": 8.75,
-    "img": "https://drive.google.com/uc?export=view&id=1yuFNgeZhUXmecRuMoIsXuBBk2FCG8eiu"
+    "img": "https://lh3.google.com/u/0/d/1LEN-JzavzfsHUv9IO6jdrmkelfOuFoT3",
+    "selling_price": 0
   },
   {
     "id": 23,
-    "name": "Ambati Rayudu",
+    "name": "Dinesh Kartik",
     "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
     "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1ql8d8uP3F766hLYsS1NhWqF5tm1gYXLn"
+    "img": "https://lh3.google.com/u/0/d/1Ye5uo28JQK0nNcPj64oujD9CyfKgGIzE",
+    "selling_price": 0
   },
   {
     "id": 24,
-    "name": "Shubman Gill",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1vNB_0CT3ZqhMR1lpUvv2Je2LcSBWN1dT"
+    "name": "Wriddhiman Saha",
+    "base_price": 0.75,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1tpSyyoOAGIuVelQ8k180JKAAD1hsMUcP",
+    "selling_price": 0
   },
   {
     "id": 25,
-    "name": "Ajinkya Rahane",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.25,
-    "img": "https://drive.google.com/uc?export=view&id=1jT-3MDq7V_TSpf7FRTtcW_3weJmr8L6S"
+    "name": "Jitesh Sharma",
+    "base_price": 0.75,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1klDdu0AU0psaOEGfdZvsNSLdYlVhA5QX",
+    "selling_price": 0
   },
   {
     "id": 26,
-    "name": "Mayank Agarwal",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
+    "name": "Johnny Bairstow",
+    "base_price": 2,
     "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1uT0KOSDsOZ8ONc_qzI47zhvPCoaQWtzO"
+    "img": "https://lh3.google.com/u/0/d/1w7-96dlelF_pCJO8CmuRoIVjO4jm6RxV",
+    "selling_price": 0
   },
   {
     "id": 27,
-    "name": "Ruturaj Gaikwad",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=17GYKg0-TksCax7f5CV2KIuEtSBcBPNYv"
+    "name": "Quinton De Kock",
+    "base_price": 1.5,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/1ufyGw__bznZ50pwRQb-fqD0h4H_7iPub",
+    "selling_price": 0
   },
   {
     "id": 28,
-    "name": "Devdutt Padikkal",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1bdo6T7oA80ymEBNhVaMeWceg5KiBMI-w"
+    "name": "Sam Billings",
+    "base_price": 0.75,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1jMaNyUHsyYViQTelDg9y3G7GQ0xwASPG",
+    "selling_price": 0
   },
   {
     "id": 29,
-    "name": "Nitish Rana",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1_on5WkT5utSLSM_ylX-gCGyiI53ilkJh"
+    "name": "Nicholas Pooran",
+    "base_price": 2,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/19I7fXNm4AEfQ8Wh8L-iXDSVa0Wh2ZNzw",
+    "selling_price": 0
   },
   {
     "id": 30,
-    "name": "Kane Williamson",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9,
-    "img": "https://drive.google.com/uc?export=view&id=1T5MiS5-I94v45_nqWSsWzJ2j1AW9YPNx"
+    "name": "Alex Carey",
+    "base_price": 0.5,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1te2lgKHNov47fXAp6UYJiLHwW0rFjSHx",
+    "selling_price": 0
   },
   {
     "id": 31,
-    "name": "Rassie van der Dussen",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1NQMnd1AjMqGPYnBygRViV31SW1fmojkg"
+    "name": "Mathew Wade",
+    "base_price": 0.5,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1C2Hey_53euCNfWqNchUspgSZQvNfh41A",
+    "selling_price": 0
   },
   {
     "id": 32,
-    "name": "Steve Smith",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1VrrATn-sbIN05NfteP7AlNWPGBlgblqD"
+    "name": "Heinrich Klaasen",
+    "base_price": 0.75,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1biAqG2URZB50Zk5vCxKY7P8oEaDbGn8I",
+    "selling_price": 0
   },
   {
     "id": 33,
-    "name": "Jason Roy",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1Y6CNSU84O39LNkpcAGT05KJfcOifVcDt"
+    "name": "Rahmanullah Gurbaz",
+    "base_price": 0.5,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1m3kE3UQiLLZrSkKrPuTtUXaK8kzEtGim",
+    "selling_price": 0
   },
   {
     "id": 34,
-    "name": "Aaron Finch",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.75,
-    "img": "https://drive.google.com/uc?export=view&id=133OZ2sAmuKvS1zJqiAbLDl18QfpGFpiU"
+    "name": "Phil Salt",
+    "base_price": 0.75,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1XtBkBB50u2yn0_DSgn1BS1OgGDO3o3sr",
+    "selling_price": 0
   },
   {
     "id": 35,
-    "name": "Chris Lynn",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1KhziwqR_F17KtH9jrgmd8ijLXg6pfVtP"
+    "name": "Mohammed Azharuddeen",
+    "base_price": 0.2,
+    "rating": 7,
+    "img": "https://lh3.google.com/u/0/d/1FRkEuwMrwR5EWNteoGUV2oPh0S-XvqdV",
+    "selling_price": 0
   },
   {
     "id": 36,
-    "name": "David Miller",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.5,
-    "img": "https://drive.google.com/uc?export=view&id=1Y4OE2DWwwqpNY0dMdYtrjN_nVFVZJ9wT"
+    "name": "K.S. Bharat",
+    "base_price": 0.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1jZf0JnvQH9PrgDq4faMf6lR1yd29kk5t",
+    "selling_price": 0
   },
   {
     "id": 37,
-    "name": "Dawid malan",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
+    "name": "Prabhsimran Singh",
+    "base_price": 0.2,
     "rating": 7.5,
-    "img": "https://drive.google.com/uc?export=view&id=1m3p4bySD1TMkQ9IvaSJH6Jvupx8cC-pe"
+    "img": "https://lh3.google.com/u/0/d/1K3RzYTh_gMripC-msDRg8Peumz5JS237",
+    "selling_price": 0
   },
   {
     "id": 38,
-    "name": "Shimron Hetmyer",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1OOsO7LstGPHlem8o8Zj5XMGLN2wn_gzu"
+    "name": "N Jagadeesan",
+    "base_price": 0.2,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/113_WVi9vf7d1s1jBw_6LsHWiLEka8d1_",
+    "selling_price": 0
   },
   {
     "id": 39,
-    "name": "Evin Lewis",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1tdB6cqxezovpKtPe1u6GrVvKuwObYBdi"
+    "name": "Dhruv Jurel",
+    "base_price": 0.2,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1jBzAtZk89MD8LuPDk-NVBnbrte22KaoN",
+    "selling_price": 0
   },
   {
     "id": 40,
-    "name": "Alex Hales",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1SCyNXSUUniSQv4I71grsWQeyTWufm4rH"
+    "name": "Rahul Tripathi",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/17AxmszIhi52Eu28eBm_UG7_DJDeTqjF9",
+    "selling_price": 0
   },
   {
     "id": 41,
-    "name": "Devon Conway",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1pLNBOIapLz2Pj_QENUJfpWquJ8KP9j7Y"
+    "name": "Prithvi Shaw",
+    "base_price": 1,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1ZjTzVnTc2Po9l1bpLdLVZRYYXbC4rxop",
+    "selling_price": 0
   },
   {
     "id": 42,
-    "name": "Dewald Brewis",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
+    "name": "Manish Pandey",
+    "base_price": 1,
     "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1dadw3tI0laIMJqNvfw7zf21o7BjynaWv"
+    "img": "https://lh3.google.com/u/0/d/1Vfdmr1jIoUS4tJXcGrHWtzpE9t-8Ohxp",
+    "selling_price": 0
   },
   {
     "id": 43,
-    "name": "Tim David",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1xb6BpBszSsn8R-CvFjQ5NSXqoAFBu0Vz"
+    "name": "Shreyas Iyer",
+    "base_price": 1.5,
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1Xn1RN6NYkI-IpX73c28l-XExWcoweXZz",
+    "selling_price": 0
   },
   {
     "id": 44,
-    "name": "Martin Guptill",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1SGQGWTMeuBgdkeGGVUbK9ER2NypHVd1S"
+    "name": "Yashashvi Jaiswal",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1KvDS1_2ypO_J00Jud0wrhy_D1qwWxKOQ",
+    "selling_price": 0
   },
   {
     "id": 45,
-    "name": "Rahul Tripathi",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9,
-    "img": "https://drive.google.com/uc?export=view&id=1Jm1Vnf_B0XaKFCdaZ14fQXl35DTg2ign"
+    "name": "Tilak Verma",
+    "base_price": 0.75,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1BuBqOFKhENRPKH1WAus4hNdJemURPBBt",
+    "selling_price": 0
   },
   {
     "id": 46,
-    "name": "Riyan Parag",
-    "base_price": 0.4,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.5,
-    "img": "https://drive.google.com/uc?export=view&id=1F0BVWDASAbuR913TYXVFqQ6f18kSLT5t"
+    "name": "Shubman Gill",
+    "base_price": 2,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/1wTOBeOND_Cx5-PqbvL0G5xz0VkoxGdmL",
+    "selling_price": 0
   },
   {
     "id": 47,
-    "name": "Tilak Varma",
+    "name": "Ajinkya Rahane",
     "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1CyQYVirmsXJ9DkCoFfHrzBYt7cUKW7UW"
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1Tj5zy4HyNB8kzQe1ItJX5NJCKCsU9RT8",
+    "selling_price": 0
   },
   {
     "id": 48,
-    "name": "Yashashvi Jaiswal",
-    "base_price": 0.4,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.5,
-    "img": "https://drive.google.com/uc?export=view&id=15TA1VTsU36d6-Wd6ZnQyul8H1zNBRnpz"
+    "name": "Mayank Agarwal",
+    "base_price": 1,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1x-tCbcK9Y2BGT4kv6hwh9gqc4swvwz6W",
+    "selling_price": 0
   },
   {
     "id": 49,
-    "name": "Rajat Patidar",
-    "base_price": 0.4,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1-L3wWwZ3fuVTGIxEH9oa20HoRnJLUlAx"
+    "name": "Ruturaj Gaikwad",
+    "base_price": 1.5,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/1n38OYd9SnL0Ldr575gpC-fwTC8Xsc5bE",
+    "selling_price": 0
   },
   {
     "id": 50,
-    "name": "Shahrukh Khan",
+    "name": "Devdutt Padikkal",
     "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
     "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1qptuF1qYH3qloA7DqH6zGM-opWOit2SZ"
+    "img": "https://lh3.google.com/u/0/d/1YMkj3OrUP8fhQ8h_LjTO3S6iyL_WJKQQ",
+    "selling_price": 0
   },
   {
     "id": 51,
-    "name": "Priyam Garg",
-    "base_price": 0.2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1gdWfUqGZNs1HlmrYK7rraMoyCISWOKmw"
+    "name": "Nitish Rana",
+    "base_price": 0.5,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1ADWG4Fz_P1RLEb8PbKvIAMECyFUtUrPo",
+    "selling_price": 0
   },
   {
     "id": 52,
-    "name": "Mandeep Singh",
-    "base_price": 0.4,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1tAZ0Gv8d9gX4HhTXxZb90lHhLSJvHiak"
+    "name": "Rinku Singh",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/17z2Ycjx6650sc3t3L2O9QL-GegEBGctH",
+    "selling_price": 0
   },
   {
     "id": 53,
-    "name": "Ayush Badoni",
-    "base_price": 0.4,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1DIuiTY0BWX-t0UJqLtYs_hamLLucVb10"
+    "name": "Sai Sudharsan",
+    "base_price": 0.5,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1j1lCXzhMIjzgrm75iDNt9Cqehx83pR2s",
+    "selling_price": 0
   },
   {
     "id": 54,
-    "name": "Safaraz Khan",
-    "base_price": 0.4,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1qptuF1qYH3qloA7DqH6zGM-opWOit2SZ"
+    "name": "Kane Williamson",
+    "base_price": 1.5,
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1AK0jhO97rspHt3rE_3VvIGOMSgMxQHze",
+    "selling_price": 0
   },
   {
     "id": 55,
-    "name": "Sanju Samson",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1k3R4g8wxVouHbr5fEf-SCoCcbgJBv9kM"
+    "name": "Rassie van der Dussen",
+    "base_price": 1,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1aeW3LceP4x8ZhFdS6GV5oLLvXURNFOT6",
+    "selling_price": 0
   },
   {
     "id": 56,
-    "name": "Ishan Kishan",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.75,
-    "img": "https://drive.google.com/uc?export=view&id=1hBXVweTgVQgzpAcKkkqGfla_aH1Jfjmx"
+    "name": "Steve Smith",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1vQvOWoc5ysxIBYG6JKkgZjD0wvQ_fNuI",
+    "selling_price": 0
   },
   {
     "id": 57,
-    "name": "Dinesh Karthik",
+    "name": "Jason Roy",
     "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9,
-    "img": "https://drive.google.com/uc?export=view&id=19_4MjhmB5dGPoiS4_dNhSBZnBc6WyWwi"
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1g8ggIWcz4QPoxmU90TKRhmJ7c4ikzBAo",
+    "selling_price": 0
   },
   {
     "id": 58,
-    "name": "Wriddhiman Saha",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.5,
-    "img": "https://drive.google.com/uc?export=view&id=1WKHdLiUcblC8UjeptCMf8Pz43gzfvKUv"
+    "name": "Chris Lynn",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1VyezNiWlqXz29v89cXtYLRXTtK3NsCbt",
+    "selling_price": 0
   },
   {
     "id": 59,
-    "name": "Robin Uthappa",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.75,
-    "img": "https://drive.google.com/uc?export=view&id=1vu7pKKaLfHlFA782PYykohRKmaP38Hr_"
+    "name": "David Miller",
+    "base_price": 1.5,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/15TlBISjbnW1AKgnQnHCFPryOHvyODhc5",
+    "selling_price": 0
   },
   {
     "id": 60,
-    "name": "Johnny Bairstow",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9,
-    "img": "https://drive.google.com/uc?export=view&id=1vu7pKKaLfHlFA782PYykohRKmaP38Hr_"
+    "name": "Finn Allen",
+    "base_price": 0.75,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1-1YXsejegVq9irZKZrMrSOVBLqm5wqX8",
+    "selling_price": 0
   },
   {
     "id": 61,
-    "name": "Quinton De Kock",
+    "name": "Shimron Hetmyer",
     "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.75,
-    "img": "https://drive.google.com/uc?export=view&id=1g43fYOtKTVC7JJe8IQ-QsE5HIIBKJBi8"
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1ppRsLINuevS-uHywqSXRyHQM9_pNUR2j",
+    "selling_price": 0
   },
   {
     "id": 62,
-    "name": "Sam Billings",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.75,
-    "img": "https://drive.google.com/uc?export=view&id=1YJHJq10-OK8R2sijCwlLoczZXAS3Q682"
+    "name": "Devon Conway",
+    "base_price": 1.5,
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/16hdxS6ZG8dFAll9QNPMbIov7lJYL7pVU",
+    "selling_price": 0
   },
   {
     "id": 63,
-    "name": "Nicholas Pooran",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1JgcmfE8pAcTd0VQmqRUD5vUS99d-ltnC"
+    "name": "Dewald Brewis",
+    "base_price": 0.75,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1NdsQp0Rq1c71HDptBkf0gwsZtfTKof7v",
+    "selling_price": 0
   },
   {
     "id": 64,
-    "name": "Alex Carey",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=11Jykjs41vfgSSGBimzJr9-BYC8REoHBt"
+    "name": "Tim David",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1kY6T7kt9PjYtFqS45OmjZKNWFwY70a1F",
+    "selling_price": 0
   },
   {
     "id": 65,
-    "name": "Mathew Wade",
+    "name": "Joe Root",
     "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
     "rating": 7.75,
-    "img": "https://drive.google.com/uc?export=view&id=1g7fJpNgsS9zhYPmYrkBGaWD0TjKuhVXn"
+    "img": "https://lh3.google.com/u/0/d/1ExQXBKw_ph4USZ_VZtvSFQWMzQyhlZar",
+    "selling_price": 0
   },
   {
     "id": 66,
-    "name": "Heinrich Klaasen",
+    "name": "Temba Bavuma",
     "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1DfU04X-tdiP1z0p1UQk1yr41qBmSFsm0"
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1F_SDuvAjGoWKmIlGXGuiRxwto1TwlJys",
+    "selling_price": 0
   },
   {
     "id": 67,
-    "name": "Mohammed Azharuddeen",
-    "base_price": 0.2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1ahufDMkg1P6hGcmYwmKz5mVUjXJdxH6i"
+    "name": "Kyle Mayers",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1KDtDR0DIRsFoLnLiYNOGvelWxESWodqV",
+    "selling_price": 0
   },
   {
     "id": 68,
-    "name": "K.S. Bharat",
-    "base_price": 0.4,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.75,
-    "img": "https://drive.google.com/uc?export=view&id=1PgPLtuq-mXXJb3gnAiLd8p0QJhX3wFY3"
+    "name": "Rilee Rossouw",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1lHJyVMun4pSH36yVc86BT_xSA2nAEcPI",
+    "selling_price": 0
   },
   {
     "id": 69,
-    "name": "Prabhsimran Singh",
-    "base_price": 0.1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1IYLK4GKC_CaAPyMt1UuAggZXT0EudkLh"
+    "name": "Glenn Phillips",
+    "base_price": 0.75,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1Fjj4LveWMol37-FJGqHCw0HuIf9ZEVic",
+    "selling_price": 0
   },
   {
     "id": 70,
-    "name": "Washington sundar",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1f2mlx-23blZTtXvLZBFJs6xz1L_PwLPZ"
+    "name": "Tristan Stubbs",
+    "base_price": 0.75,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1Q5FvSox6TjgRLMi_wfIgONQ1TsEJMSpk",
+    "selling_price": 0
   },
   {
     "id": 71,
-    "name": "Shivam dube",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1UofoPkr2h1bDLXHlv4djmhxp_1xrHWSS"
+    "name": "Harry Brook",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1mwIAXQmauJRLp465u_O3suWOnI2asv5l",
+    "selling_price": 0
   },
   {
     "id": 72,
-    "name": "Krunal pandya",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1ETkq3QhLX9M766XwRrWCYjE4cYj9mtuX"
+    "name": "Riyan Parag",
+    "base_price": 0.5,
+    "rating": 7.25,
+    "img": "https://lh3.google.com/u/0/d/16dE9A9ar_S5NgdzbrlPwfAeLSwa5BIPW",
+    "selling_price": 0
   },
   {
     "id": 73,
-    "name": "Axar patel",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1Tw40HOnuF-lFvu0BVQhbJmOCpqwKCvyG"
+    "name": "Rajat Patider",
+    "base_price": 0.4,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1aY6Y058essPCXnjLDHTfATmtq51_kp2g",
+    "selling_price": 0
   },
   {
     "id": 74,
-    "name": "Venkatesh Iyer",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=19X4jlysMGjvB-d0CV0szzE4xjdOOFhp1"
+    "name": "Shahrukh Khan",
+    "base_price": 0.5,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1o9u0z-wyOMmmhMjPQG8RFuy1CEqRmwp3",
+    "selling_price": 0
   },
   {
     "id": 75,
-    "name": "Deepak Hooda",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.75,
-    "img": "https://drive.google.com/uc?export=view&id=1gisMOdMyeeKViWbtPCrCzNyVEBDJRcv6"
+    "name": "Priyam Garg",
+    "base_price": 0.5,
+    "rating": 7.25,
+    "img": "https://lh3.google.com/u/0/d/1UeUAsR1ZbBibEVXwoviso5ANREsssfKl",
+    "selling_price": 0
   },
   {
     "id": 76,
-    "name": "Glenn Maxwell",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.5,
-    "img": "https://drive.google.com/uc?export=view&id=1rcwibfw4I_twDpLlgCpT-k3hkyePtBEj"
+    "name": "Mandeep Singh",
+    "base_price": 0.4,
+    "rating": 7,
+    "img": "https://lh3.google.com/u/0/d/1Zyi0gZ4JTBZaI-4JyaLfdnK25TkilhMp",
+    "selling_price": 0
   },
   {
     "id": 77,
-    "name": "Ben Stokes",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9,
-    "img": "https://drive.google.com/uc?export=view&id=1XijQrlxgClTI4rqi_wP5j6yFEmL1ZNRM"
+    "name": "Ayush Badoni",
+    "base_price": 0.5,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1Sf4YluXX9VybMjN8peEWzHC2r8xNtbuz",
+    "selling_price": 0
   },
   {
     "id": 78,
-    "name": "Mohammad Nabi",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1CfM1nMOzKBziUOIlMTI3iZlaIoOpsCz_"
+    "name": "Safaraz Khan",
+    "base_price": 0.5,
+    "rating": 7,
+    "img": "https://lh3.google.com/u/0/d/14Xa-ANxMBUFx1_l3MVqZWrvfX6h_Tsp-",
+    "selling_price": 0
   },
   {
     "id": 79,
-    "name": "Jason Holder",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1uaTnTpeRyMNhrHTPSinsUDmXirq0v9Pk"
+    "name": "Ripal Patel",
+    "base_price": 0.5,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1lrs0mPoO4fNgA2F3-BRf3eFMvJX7cjdA",
+    "selling_price": 0
   },
   {
     "id": 80,
-    "name": "Liam Livingstone",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.25,
-    "img": "https://drive.google.com/uc?export=view&id=1b4CldL3XhvUNBmUPkJhguOh5X8sLao-z"
+    "name": "Anukul Roy",
+    "base_price": 0.2,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1IwWZ-vDzhs5OKyBm-Jg9-CwmR0tVmnzJ",
+    "selling_price": 0
   },
   {
     "id": 81,
-    "name": "Shakib Al Hasan",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.75,
-    "img": "https://drive.google.com/uc?export=view&id=1Au9YGDOmVClU2fYkRR6SFgRY7a6H5hs8"
+    "name": "Nehal Wadhera",
+    "base_price": 0.5,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1TZMQuYL8E0Qr_oJWklmiDWKY5MO7JZhE",
+    "selling_price": 0
   },
   {
     "id": 82,
-    "name": "Moeen Ali",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.75,
-    "img": "https://drive.google.com/uc?export=view&id=1B5K9LXvHx3AVWrm6FQAi5ygI2s5UyOpc"
+    "name": "Anuj Rawat",
+    "base_price": 0.4,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1HgpOsoLosYVOByeHhxUYC7TQpkKgbEgW",
+    "selling_price": 0
   },
   {
     "id": 83,
-    "name": "Sam Curran",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1YZKk_mXc-HFqMrtyT3tONnftTTvayog4"
+    "name": "Mahipal Lomror",
+    "base_price": 0.5,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/11q1uiKfcmtnwJ95vsZjSRrTE15kqMQBd",
+    "selling_price": 0
   },
   {
     "id": 84,
-    "name": "Marcus Stoinis",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1L5AKgnH81rAweOkdo-nfohCb_bGZhI53"
+    "name": "Washington sundar",
+    "base_price": 1,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1oloy-tKmjuPqSXRQ4OLmGoxC4b1jaWWg",
+    "selling_price": 0
   },
   {
     "id": 85,
-    "name": "Mitchell Marsh",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1l49LVYn2AEHdkL0yZjGNtR0qPzSyCk-w"
+    "name": "Shivam dube",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1kGCKKnh7i2AbJKc0lCJgeD5tTMPGCtbQ",
+    "selling_price": 0
   },
   {
     "id": 86,
-    "name": "Jimmy Neesham",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1kH5D_WbFjNK1qS1862xTuhqtM4TQtrYj/"
+    "name": "Krunal pandya",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1vlkkut71gk_a7fpPc_r7WbF6tW7m2gh4",
+    "selling_price": 0
   },
   {
     "id": 87,
-    "name": "Daryl mitchell",
+    "name": "Axar patel",
     "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1iUZnz6I3uATM7_DMn_RtyS-qYkcTvtts"
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1P7A3JGFL806spQOKWdahXVVSBwvue05y",
+    "selling_price": 0
   },
   {
     "id": 88,
-    "name": "Aiden Markram",
+    "name": "Venkatesh Iyer",
     "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.75,
-    "img": "https://drive.google.com/uc?export=view&id=1okJ3k1_TRGnSr0EKSl490z2YjTXZ2Iw5"
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1SAcQ3IQjuYCmn7Gy-02y8vUK2i0NoDGf",
+    "selling_price": 0
   },
   {
     "id": 89,
-    "name": "Daniel Sams",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1IgMynAB41sI3Iu2LwTViX5ELgh4pkFUe"
+    "name": "Deepak Hooda",
+    "base_price": 0.75,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1w9ex-6C8kFUY4eg5FWLYrOLJAwVje-FQ",
+    "selling_price": 0
   },
   {
     "id": 90,
-    "name": "Rovman Powell",
+    "name": "Karn Sharma",
     "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1hfFJy5y49eGn6l3zBhUt9_yWJRDz2ZFA"
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1ZOz6KB9iL8W7VLvhCmQ8Fd6fJl8jYf0A",
+    "selling_price": 0
   },
   {
     "id": 91,
-    "name": "Rahul Tewatia",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1oxJ0Jzc-m3x2w-gkKfKuVHwOoUJl34Wa"
+    "name": "Kedar Jadhav",
+    "base_price": 0.5,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1mrGZzqwXGejzv6JP6W6Q6AscoCFmLaUf",
+    "selling_price": 0
   },
   {
     "id": 92,
-    "name": "Abdul Samad",
-    "base_price": 0.4,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.5,
-    "img": "https://drive.google.com/uc?export=view&id=1Z4007yepOfMjFRcVjYfGRBi3fZno4PiO"
+    "name": "Vijay Shankar",
+    "base_price": 0.75,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1vul1Mc30S7-pzXjonxr5ZdIBOiYUjFr9",
+    "selling_price": 0
   },
   {
     "id": 93,
-    "name": "Abhishek Sharma",
-    "base_price": 0.2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1BD79ydsjm2nJoVQ51NznOtHiw-yF_eOE/"
+    "name": "Rishi Dhawan",
+    "base_price": 0.5,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1h5PXawZB8RUPmqiDCTtF63jf3hSIDNDU",
+    "selling_price": 0
   },
   {
     "id": 94,
-    "name": "Lalit Yadav",
-    "base_price": 0.4,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.5,
-    "img": "https://drive.google.com/uc?export=view&id=19La9EuRnb69ZMcFF0GhY4WAjxJ06FlPT"
+    "name": "Deepak Chahar",
+    "base_price": 2,
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1UW6X4B9BJ_Z5u_H7Kp9njdCN46hu-F9T",
+    "selling_price": 0
   },
   {
     "id": 95,
-    "name": "Arjun Tendulkar",
-    "base_price": 0.2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 6.75,
-    "img": "https://drive.google.com/uc?export=view&id=1_x0S8Wh9N3X7kurzGU8oMi1PB6aSxBRq"
+    "name": "Cameron Green",
+    "base_price": 2,
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1z3qxscQsvurmUG2sYAYRB-yqLiyuz8gv",
+    "selling_price": 0
   },
   {
     "id": 96,
-    "name": "Ramandeep Singh",
-    "base_price": 0.2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1Y1jiEMQPK8MFeAN4UeAjuchNAc28M7DF"
+    "name": "Ben Stokes",
+    "base_price": 2,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/1PJ0863K09J7skA-lyjGGKykjfQao-KOU",
+    "selling_price": 0
   },
   {
     "id": 97,
-    "name": "Mohammed Shami",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=15hXSonvLn8r0OLJ6teJuvQjJ-gyZ03Xw"
+    "name": "Mohammad Nabi",
+    "base_price": 1.5,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1-HuPl_GIgvJHmT-7wuLuQjO8-F9Xwmfi",
+    "selling_price": 0
   },
   {
     "id": 98,
-    "name": "Mohammed Siraj",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1e-8RXkj37Qr7VSSs2rMKcpQxSSvX8wcq"
+    "name": "Jason Holder",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/15SsrkTq0ZMFA1IVgocDGUXW_SoqAOcud",
+    "selling_price": 0
   },
   {
     "id": 99,
-    "name": "Y Chahal",
+    "name": "Liam Livingstone",
     "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9,
-    "img": "https://drive.google.com/uc?export=view&id=1-OAt-UvlqUlsZI7pg-wtZwjxqsrrZeR0"
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1z0fVdkzarHkViofVqlEfC75-jwwsxEs3",
+    "selling_price": 0
   },
   {
     "id": 100,
-    "name": "Navdeep Saini",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.5,
-    "img": "https://drive.google.com/uc?export=view&id=1hyE0IrW2aBV3nTz4nfwUN3nGnZ85dN61"
+    "name": "Shakib Al Hasan",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1-xlFThIGJZGj4D3WZj_bn9yc7Ev5OsqT",
+    "selling_price": 0
   },
   {
     "id": 101,
-    "name": "T Natrajan",
+    "name": "Moeen Ali",
     "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1dX3Fcwqh-861pynDhd95hNbzvzMyq6up"
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1x2Mb6hoWgyom31u7JrryLbgnhFgCiEqa",
+    "selling_price": 0
   },
   {
     "id": 102,
-    "name": "Sandeep Sharma",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1xTCAPxCNxcMXhnDYIjRnzN1sZGlTmEAv"
+    "name": "Sam Curran",
+    "base_price": 2,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/1sz3ThNNz7XHmOTizah3LO00vuc5yvlnn",
+    "selling_price": 0
   },
   {
     "id": 103,
-    "name": "Bhuvneshwar kumar",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9,
-    "img": "https://drive.google.com/uc?export=view&id=1u8hpP0w1rH9nC4KNDHWNgs61G7Q9AsqY"
+    "name": "Marcus Stoinis",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1fUstzEdmGkt__ImDqbjWGckQA8W7cvI-",
+    "selling_price": 0
   },
   {
     "id": 104,
-    "name": "Prasidh Krishna",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
+    "name": "Mitchell Marsh",
+    "base_price": 1,
     "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1bgvq3lbvQFToRHwdUi-MaArGDfRht1Hi"
+    "img": "https://lh3.google.com/u/0/d/1zDKY63DlGdJwmrUq7HAJRHJ2we2Q5AtA",
+    "selling_price": 0
   },
   {
     "id": 105,
-    "name": "Kuldeep Yadav",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1iTtp6Fy9Dx1bIqkkegdCOv58XjTy2OrU"
+    "name": "Jimmy Neesham",
+    "base_price": 0.75,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/19WqzMVFXln41lIjt0OzbxFcqHRMWIHp3",
+    "selling_price": 0
   },
   {
     "id": 106,
-    "name": "Shardul Thakur",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
+    "name": "Daryl mitchell",
+    "base_price": 1,
     "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1r9H2OwBj6cn8sV_kDDFCPxYUrHP5w5J9"
+    "img": "https://lh3.google.com/u/0/d/1taSjfasSRKBIqHrsi8GCetptRJgtvGcO",
+    "selling_price": 0
   },
   {
     "id": 107,
-    "name": "Rahul Chahar",
+    "name": "Aiden Markram",
     "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.75,
-    "img": "https://drive.google.com/uc?export=view&id=1hXblRW56Bowu1buTo2s7LDlAzJgOgZCK"
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1PcQwFys5eCjjwWtWtke5Xyxj47763BBc",
+    "selling_price": 0
   },
   {
     "id": 108,
-    "name": "Ravi Ashwin",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
+    "name": "Rovman Powell",
+    "base_price": 0.75,
     "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1mcLsuuCA_XnSiyWkelGbq3dzeIsEDB1Y"
+    "img": "https://lh3.google.com/u/0/d/1WiHMZ27qqdoyfy8I1_I5t82qelqT0qdr",
+    "selling_price": 0
   },
   {
     "id": 109,
-    "name": "Amit Mishra",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1h0L7ebiT7etPoiKkPgOuAoV0hOSYoVkC"
+    "name": "Sikanadar Raza",
+    "base_price": 1,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1CmvaD1MRxKlif3r5nREC7K-ndYkXF24W",
+    "selling_price": 0
   },
   {
     "id": 110,
-    "name": "Umesh Yadav",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1BiApT_pQwbzb2TX3ElXYuaNEVdHrXWuu"
+    "name": "Rachin Ravindra",
+    "base_price": 1,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1o30kwvogP2suUq6mm7IFoH9nmt2OMSyT",
+    "selling_price": 0
   },
   {
     "id": 111,
-    "name": "Ravi Bishnoi",
+    "name": "Marco Jansen",
     "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9,
-    "img": "https://drive.google.com/uc?export=view&id=10YD5B-cmQ0EK89sCeAoteCebc_RDpHAT"
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1csHs9L-TviSwrWqBOHt_2qvadj4FbP0n",
+    "selling_price": 0
   },
   {
     "id": 112,
-    "name": "Harshal Patel",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.5,
-    "img": "https://drive.google.com/uc?export=view&id=1YCEP-NYkD8S4x-EAYHzmqyn-mUJFeeB9"
+    "name": "Wayne Parnell",
+    "base_price": 0.75,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1ppMYDMVhoaLuJ3_gBfULw8K484pMgoTj",
+    "selling_price": 0
   },
   {
     "id": 113,
-    "name": "Chetan Sakariya",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1386X56GX9vyLzLUQabMvN6BZJ425PZD5"
+    "name": "Mitchell Santner",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1sMr8KpCPXhHs8fPmr6A-ZoM2Zp0Kg3A8",
+    "selling_price": 0
   },
   {
     "id": 114,
-    "name": "K Gowtham",
-    "base_price": 0.4,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=16IGrDd4Xv8r27BUYY3MJMTeh5ghoYwBD"
+    "name": "Rahul Tewatia",
+    "base_price": 1,
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1SAjogUkVwvVi4OIY_v1-sVafTGDacgE5",
+    "selling_price": 0
   },
   {
     "id": 115,
-    "name": "Varun Chakravarthy",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1lrnkyttUxqTfo7Z1sVylDg_s0hDxc4k1"
+    "name": "Abdul Samad",
+    "base_price": 0.4,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1xKXmBJ_7LiEp230araoIB5zH9EgyYqZ4",
+    "selling_price": 0
   },
   {
     "id": 116,
-    "name": "Arshdeep Singh",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1DLA7EpaIhiJv0ABlh_ichBY-QpBwJ7dG"
+    "name": "Abhishek Sharma",
+    "base_price": 0.2,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1I1X-ZfeHLiqC9-b2OSh7nAOnoUWs6iEK",
+    "selling_price": 0
   },
   {
     "id": 117,
-    "name": "Avesh Khan",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1L3FfLElzO33qXKrzfz-68b0l_tOkYGEK"
+    "name": "Lalit Yadav",
+    "base_price": 0.4,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1tqiH2MtqP8N73QTHdYy64NaWKnjBcybi",
+    "selling_price": 0
   },
   {
     "id": 118,
-    "name": "Khaleel Ahmed",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1txFeomBu0CkgXYMQex-EvoybY2Di5ADx"
+    "name": "Arjun Tendulkar",
+    "base_price": 0.2,
+    "rating": 7,
+    "img": "https://lh3.google.com/u/0/d/1ZDeve5I0ZnrWm6ccrL4cfJKfXclWPmoi",
+    "selling_price": 0
   },
   {
     "id": 119,
-    "name": "Umran Malik",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.25,
-    "img": "https://drive.google.com/uc?export=view&id=1h7rj5c0bBhp_hhJq2DJrDbYJqm6jWzXI"
+    "name": "Ramandeep Singh",
+    "base_price": 0.2,
+    "rating": 7,
+    "img": "https://lh3.google.com/u/0/d/1hNKzm6dAJVMn2jBst0HQw32cojSCWf16",
+    "selling_price": 0
   },
   {
     "id": 120,
-    "name": "Josh Hazlewood",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9.25,
-    "img": "https://drive.google.com/uc?export=view&id=112SqS-EDdVV7eFKltvGrS9kAbsxlSSeW"
+    "name": "Krishnappa Gowtham",
+    "base_price": 0.2,
+    "rating": 7,
+    "img": "https://lh3.google.com/u/0/d/1yTWHtxRX1kpxivGfve-ka41jHxRUKQkD",
+    "selling_price": 0
   },
   {
     "id": 121,
-    "name": "Kane Richardson",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1QUgd_mV1M0UZVTDu4KVsmRjGDnhSWa4L"
+    "name": "Harpreet Brar",
+    "base_price": 0.4,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1GPT5HQw5L0nbLgI8ThqMoQyuVrgHUm-y",
+    "selling_price": 0
   },
   {
     "id": 122,
-    "name": "Adam Zampa",
-    "base_price": 1,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.75,
-    "img": "https://drive.google.com/uc?export=view&id=1tf3aOYVPN6UERc4_ks7ma0SVKyIfKCis"
+    "name": "Mohammed Shami",
+    "base_price": 1.5,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/1LC_RCnucL6AULbf9A7hNBAOok1zE_Scx",
+    "selling_price": 0
   },
   {
     "id": 123,
-    "name": "Mustafizur Rahman",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1oifxdv76ZZB3ZAuaRd27a3ygPuoOVSU7"
+    "name": "Mohammed Siraj",
+    "base_price": 2,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/1767yIwissKiHGwmNVKW_pggwcOr9MRzT",
+    "selling_price": 0
   },
   {
     "id": 124,
-    "name": "Wanindu Hasaranga",
-    "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 9,
-    "img": "https://drive.google.com/uc?export=view&id=1kMM4YlpVDQ9yMI_f70BtXr1z-JylsI_6"
+    "name": "Y Chahal",
+    "base_price": 2,
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1CsDbfvyx3BXee7axqKtEbWLaxfHAzaiu",
+    "selling_price": 0
   },
   {
     "id": 125,
-    "name": "N coulter Nile",
+    "name": "Navdeep Saini",
     "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.5,
-    "img": "https://drive.google.com/uc?export=view&id=19qK-Ob3EJFRV4uU8HONYNajKM4xm2Uak"
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1coMmP_rFrK1XHw-MW-ifbEZb96saBHnl",
+    "selling_price": 0
   },
   {
     "id": 126,
-    "name": "Sunil Narine",
-    "base_price": 2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=1kmS4aszNgXF6gVAMGmLQNdFvb-yEmnGI"
+    "name": "T Natrajan",
+    "base_price": 0.75,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/19AlDNasdyLlFqSImM_GiCfU_4HDIl8WV",
+    "selling_price": 0
   },
   {
     "id": 127,
-    "name": "Kyle Jamieson",
+    "name": "Sandeep Sharma",
     "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
     "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1kS7H8RXyERbVfJ1GqxVS51SbETlLAzqh"
+    "img": "https://lh3.google.com/u/0/d/1MqCCAWYB8BFp1g3AXPpSFuU-nMFVXbz6",
+    "selling_price": 0
   },
   {
     "id": 128,
-    "name": "Lockie Ferguson",
+    "name": "Bhuvneshwar kumar",
     "base_price": 1.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8.5,
-    "img": "https://drive.google.com/uc?export=view&id=132gl6URvJHVEuOHkXheaqkz1QkBWDCwm"
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/1nTv-XeESfPKpfF-OQS0sXWu1HHFH12UX",
+    "selling_price": 0
   },
   {
     "id": 129,
-    "name": "Dwayne Bravo",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1ir2TqQUcOCo3jwDDcKECREI03WbQPVYX"
+    "name": "Prasidh Krishna",
+    "base_price": 1,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1ZzcTdEU5LHirE3c2E6ockyHi3eOkx1CL",
+    "selling_price": 0
   },
   {
     "id": 130,
-    "name": "Alzarri Joseph",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1Lc6exXSqcPg-fTBJwo2hCnJGGHV30p59"
+    "name": "Kuldeep Yadav",
+    "base_price": 1.5,
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1gIC3LeGtRSE2u6n4TL3s6SBwQsN355Zg",
+    "selling_price": 0
   },
   {
     "id": 131,
-    "name": "Dushmanth Chameera",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1To_Fe4-n9Q_alo95qhnaxpGXi1PbTOpp"
+    "name": "Shardul Thakur",
+    "base_price": 1.5,
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1Pffni3qaLykmBDZC34bSiTNSP8YvnUM0",
+    "selling_price": 0
   },
   {
     "id": 132,
-    "name": "Obed Mcoy",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.5,
-    "img": "https://drive.google.com/uc?export=view&id=1cG5SK_iU6siyTMPVmYg0vFpsiOTUZ904"
+    "name": "Rahul Chahar",
+    "base_price": 0.75,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1th5bwZMszbYPn5Q4FOp5TMBcPYTDv7wt",
+    "selling_price": 0
   },
   {
     "id": 133,
-    "name": "Mohsin Khan",
-    "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1lWtftgfrSKDyrPDGieHwM2QM8tnmErVW"
+    "name": "Ravichandran Ashwin",
+    "base_price": 2,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1NexsUK-yq18W05evQrxLVVLCfImy7yrF",
+    "selling_price": 0
   },
   {
     "id": 134,
-    "name": "Pravin Dubey",
-    "base_price": 0.2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1kZqXpJIVN_-jnsHgtD76zd1Q1i4VflOf"
+    "name": "Umesh Yadav",
+    "base_price": 0.75,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1m9wUXH_339qI0XXgmfvKwUULc41H8Der",
+    "selling_price": 0
   },
   {
     "id": 135,
-    "name": "Kamlesh Nagarkoti",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=1wfELRrEl6NN5HdVEAMxeuL9AlPqfsIm0"
+    "name": "Ravi Bishnoi",
+    "base_price": 2,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/1lc4gMjCYHrhHQpuQFhEQFgKZR-3go80L",
+    "selling_price": 0
   },
   {
     "id": 136,
-    "name": "Tushar Deshpande",
-    "base_price": 0.2,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7,
-    "img": "https://drive.google.com/uc?export=view&id=1t6TMN0xbOvnv3rMNApsCPEE34xG0KcSI"
+    "name": "Harshal Patel",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1OYcjsXsTjGok7wsjY_O8Y5sTTGZCZhvx",
+    "selling_price": 0
   },
   {
     "id": 137,
-    "name": "Yash Dayal",
-    "base_price": 0.5,
-    "selling_price": 0,
-    "team_id": 1,
-    "rating": 7.5,
-    "img": "https://drive.google.com/uc?export=view&id=1Wg7F-spB3S5TRSslHOYGYmmRYp2QCApA"
+    "name": "Chetan Sakariya",
+    "base_price": 0.75,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1ARuyF9nMq1vNzs24PktRqqaqkA5aIHFF",
+    "selling_price": 0
   },
   {
     "id": 138,
-    "name": "Shivam Mavi",
+    "name": "Varun Chakravarthy",
+    "base_price": 1,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1bjxC8odX-rKvwd9SgQhjLTzRhI0epdhe",
+    "selling_price": 0
+  },
+  {
+    "id": 139,
+    "name": "Arshdeep Singh",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1-SzqvDyzjjeujwRb65QZGkmccITv1jjX",
+    "selling_price": 0
+  },
+  {
+    "id": 140,
+    "name": "Avesh Khan",
+    "base_price": 1,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1N_7S2HmENUW-EvL-KgZFa8dfUY60jtsk",
+    "selling_price": 0
+  },
+  {
+    "id": 141,
+    "name": "Khaleel Ahmed",
     "base_price": 0.75,
-    "selling_price": 0,
-    "team_id": 1,
     "rating": 8,
-    "img": "https://drive.google.com/uc?export=view&id=19i_NF50MGisrxCiUd-AqbBabAr1yQTop"
+    "img": "https://lh3.google.com/u/0/d/1il61AVESdKAIlXlc5PnwW_BX-77YvIyF",
+    "selling_price": 0
+  },
+  {
+    "id": 142,
+    "name": "Umran Malik",
+    "base_price": 1.5,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1MjL0WCn1nALCt5eoDiTfDu_IEUTWbjhD",
+    "selling_price": 0
+  },
+  {
+    "id": 143,
+    "name": "Mukesh Kumar",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1k2ChpMIo9jhjR9OwnDeg7taBZtzBHtBp",
+    "selling_price": 0
+  },
+  {
+    "id": 144,
+    "name": "Mohit Sharma",
+    "base_price": 1,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/11pTbl9R3DQnD5BizUxn5yIsBvfELqoKx",
+    "selling_price": 0
+  },
+  {
+    "id": 145,
+    "name": "Piyush Chawla",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1GPwCnw-RHdUd5IpC0Z1j83eU0XU3KAP5",
+    "selling_price": 0
+  },
+  {
+    "id": 146,
+    "name": "Jaydev Unadkat",
+    "base_price": 0.5,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1P2YmdHdFzVAt53wKQwSgAfmuS3rLVSw7",
+    "selling_price": 0
+  },
+  {
+    "id": 147,
+    "name": "Josh Hazlewood",
+    "base_price": 2,
+    "rating": 9,
+    "img": "https://lh3.google.com/u/0/d/126oXqN3TYeTV8VetKKBAjkTO0NZ5EKic",
+    "selling_price": 0
+  },
+  {
+    "id": 148,
+    "name": "Maheesh Theekshana",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1GWX_ki2ZkeDGTRZsyThnsJrlY2VVhMok",
+    "selling_price": 0
+  },
+  {
+    "id": 149,
+    "name": "Adam Zampa",
+    "base_price": 1.5,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1Q67eOgZy0rv2aw5ISQgl3_8v5iro_hU0",
+    "selling_price": 0
+  },
+  {
+    "id": 150,
+    "name": "Mustafizur Rahman",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1ybtOA3MBYZfPh-Lk3AzNCT6DQTbIOjIp",
+    "selling_price": 0
+  },
+  {
+    "id": 151,
+    "name": "Wanindu Hasaranga",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1y74ts2E2A9wwod71vTaoioHDCI_3mr-H",
+    "selling_price": 0
+  },
+  {
+    "id": 152,
+    "name": "N coulter Nile",
+    "base_price": 0.5,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1YigSxgKPnw3_tySxI59TEyjtUdQVED1k",
+    "selling_price": 0
+  },
+  {
+    "id": 153,
+    "name": "Sunil Narine",
+    "base_price": 1,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1zV16wPw4dGcTU1P2x535u67MYKE2OHJe",
+    "selling_price": 0
+  },
+  {
+    "id": 154,
+    "name": "Kyle Jamieson",
+    "base_price": 0.75,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1gm5N5c0yquAt1dBwQsIMwPcICzSER5Vl",
+    "selling_price": 0
+  },
+  {
+    "id": 155,
+    "name": "Lockie Ferguson",
+    "base_price": 1.5,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1VuidMl_jFAZqw6DxUWYBM4ErRQxUOHmS",
+    "selling_price": 0
+  },
+  {
+    "id": 156,
+    "name": "Matheesha Pathirana",
+    "base_price": 1,
+    "rating": 8.5,
+    "img": "https://lh3.google.com/u/0/d/1tmGqbH2zeXM0NqcaUkM-QALDZLMW5yP9",
+    "selling_price": 0
+  },
+  {
+    "id": 157,
+    "name": "Alzarri Joseph",
+    "base_price": 0.75,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/11wgHqkm_JePQS9TIMG2FNbh9xfv7AOnT",
+    "selling_price": 0
+  },
+  {
+    "id": 158,
+    "name": "Dushmanth Chameera",
+    "base_price": 0.75,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1UIp24XmLIixP0zoiOwfRRh6BRdGFoKw8",
+    "selling_price": 0
+  },
+  {
+    "id": 159,
+    "name": "Lungi Ngidi",
+    "base_price": 1,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1WkNXZNJke2cqEx3ndL3Y4T8ce7wfHvYe",
+    "selling_price": 0
+  },
+  {
+    "id": 160,
+    "name": "Jason Behrendorff",
+    "base_price": 0.75,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1yEJ03ZtR-JbT6_YvnF6ZObjSyCZzWZQI",
+    "selling_price": 0
+  },
+  {
+    "id": 161,
+    "name": "Joshua Little",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1TVOiqXLpU_b4xQiur7yxUy100K-igBgq",
+    "selling_price": 0
+  },
+  {
+    "id": 162,
+    "name": "Naveen ul Haq",
+    "base_price": 1.5,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/12pkZ1U6aMnPbLtIiX_NUQLujCUbJtCo0",
+    "selling_price": 0
+  },
+  {
+    "id": 163,
+    "name": "Mark Wood",
+    "base_price": 1.5,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1B2ZnwjRmGVGjrp8mULMJaISrtX83IxPE",
+    "selling_price": 0
+  },
+  {
+    "id": 164,
+    "name": "Kagiso Rabada",
+    "base_price": 2,
+    "rating": 8.75,
+    "img": "https://lh3.google.com/u/0/d/1NFr3WXAS5W-0gqyx4oQ3TE9ADdy8XElm",
+    "selling_price": 0
+  },
+  {
+    "id": 165,
+    "name": "Tim Southee",
+    "base_price": 1,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1ZdFAHCOY7IPHt_-gAQ0wi3bMJlVJaned",
+    "selling_price": 0
+  },
+  {
+    "id": 166,
+    "name": "Noor Ahmad",
+    "base_price": 0.75,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/171nbxU5A0_yfKF07tLSKiRPtES99BoTQ",
+    "selling_price": 0
+  },
+  {
+    "id": 167,
+    "name": "Mohsin Khan",
+    "base_price": 0.5,
+    "rating": 8.25,
+    "img": "https://lh3.google.com/u/0/d/1gF01EVQY-QxroxTt7dv79Ys_R_wxOENn",
+    "selling_price": 0
+  },
+  {
+    "id": 168,
+    "name": "Kamlesh Nagarkoti",
+    "base_price": 0.4,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1RKFTMIIbwCHU-k47IiNHnvChkXGf_x9d",
+    "selling_price": 0
+  },
+  {
+    "id": 169,
+    "name": "Tushar Deshpande",
+    "base_price": 0.5,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1BdrMnaHx8UL6WRegiEDy9B69SLjrDafE",
+    "selling_price": 0
+  },
+  {
+    "id": 170,
+    "name": "Yash Dayal",
+    "base_price": 0.2,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1pFO4TjQan2Bagsi9_hXs5v9-t1994Q4T",
+    "selling_price": 0
+  },
+  {
+    "id": 171,
+    "name": "Shivam Mavi",
+    "base_price": 0.5,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1C_6bUHCwEXSNYbOhm2Ooup7ogkWFSWu_",
+    "selling_price": 0
+  },
+  {
+    "id": 172,
+    "name": "R Sai Kishore",
+    "base_price": 0.5,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1giJRHythgEvwgTsXTy0Niz_fmfnPK-BD",
+    "selling_price": 0
+  },
+  {
+    "id": 173,
+    "name": "Suyash Sharma",
+    "base_price": 0.4,
+    "rating": 7.5,
+    "img": "https://lh3.google.com/u/0/d/1L5bxvDR-8tH-1l-O4WGCT_sWEt0p9Dp7",
+    "selling_price": 0
+  },
+  {
+    "id": 174,
+    "name": "Hrithik Shokeen",
+    "base_price": 0.2,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1gK30MeBxTmTReqm0bCfZXlZUbM-dLLJX",
+    "selling_price": 0
+  },
+  {
+    "id": 175,
+    "name": "Akash Madhwal",
+    "base_price": 0.5,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/18k25bNuBbNJMoOAqM38IraEB75En3p9b",
+    "selling_price": 0
+  },
+  {
+    "id": 176,
+    "name": "Kartik Tyagi",
+    "base_price": 0.5,
+    "rating": 7.75,
+    "img": "https://lh3.google.com/u/0/d/1cR2qPyZ0EarrSRhVdeJnccJ4KoKmStrs",
+    "selling_price": 0
+  },
+  {
+    "id": 177,
+    "name": "Mayank Markande",
+    "base_price": 0.2,
+    "rating": 8,
+    "img": "https://lh3.google.com/u/0/d/1WUTfo07a61G0U8b-GYTvj8OwhJYsTbBf",
+    "selling_price": 0
+  },
+  {
+    "id": 178,
+    "name": "Ab DeVilliers",
+    "base_price": 2.5,
+    "rating": 10,
+    "img": "https://lh3.google.com/u/0/d/1Rme59GYyrFJhvemauSk3ORJ9STgtynRJ",
+    "selling_price": 0
+  },
+  {
+    "id": 179,
+    "name": "Sachin Tendulkar",
+    "base_price": 2.5,
+    "rating": 10,
+    "img": "https://lh3.google.com/u/0/d/1D1o4rF7PTUxnsPuUcUzf52V0FZUrP268",
+    "selling_price": 0
+  },
+  {
+    "id": 180,
+    "name": "Suresh Raina",
+    "base_price": 2.5,
+    "rating": 10,
+    "img": "https://lh3.google.com/u/0/d/1Qh900iyWllN1qnNwWmtINo3HA0jEikYV",
+    "selling_price": 0
+  },
+  {
+    "id": 181,
+    "name": "Lasith Malinga",
+    "base_price": 2.5,
+    "rating": 10,
+    "img": "https://lh3.google.com/u/0/d/1Z46BzylTSrqB6ZoAdGzqt-PqG6C10tdg",
+    "selling_price": 0
+  },
+  {
+    "id": 182,
+    "name": "Shane Warne",
+    "base_price": 2.5,
+    "rating": 10,
+    "img": "https://lh3.google.com/u/0/d/1EFRvvKLtKCdQP86X7DECWjinFrarrEeC",
+    "selling_price": 0
   }
 ]
-
 iplteams = [
     {
         "name": "Mumbai Indians",
